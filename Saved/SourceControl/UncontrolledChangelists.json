@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Work/Exercise/RPG_Demo/Content/Characters/RPG_Character/Animations/Crouched/BS_Crouch.uasset",
+				"F:/Work/Exercise/RPG_Demo/Content/Characters/RPG_Character/ABP_RPG_Character.uasset",
+				"F:/Work/Exercise/RPG_Demo/Content/Characters/RPG_Character/Animations/Locomotion/Run_To_Stop.uasset",
+				"F:/Work/Exercise/RPG_Demo/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"F:/Work/Exercise/RPG_Demo/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"F:/Work/Exercise/RPG_Demo/Content/Characters/RPG_Character/BP_RPG_Character.uasset",
+				"F:/Work/Exercise/RPG_Demo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/TY/XFKT92S8B02DQIMTYHIS2R.uasset",
+				"F:/Work/Exercise/RPG_Demo/Content/Characters/RPG_Character/Animations/Crouched/Crouched_Walking.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/Animations/Crouching_Idle_Anim_Take_001.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/SkeletonMesh/Alpha_Body_MAT.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/SkeletonMesh/Alpha_Joints_MAT.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/SkeletonMesh/RPG_Character.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/SkeletonMesh/RPG_Character_PhysicalAsset.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/SkeletonMesh/RPG_Character_Skeleton.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/Animations/Locomotion/Idle.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/Animations/Locomotion/Walking.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/Animations/Crouched/Crouched_Walking.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/Animations/Locomotion/BS_Locomotion.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/Animations/Crouched/Crouching_Idle.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/Animations/Locomotion/Running.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/Animations/Locomotion/Run_To_Stop.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/ABP_RPG_Character.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/BP_RPG_Character.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/Animations/Jump/Falling_Idle.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/Animations/Jump/Jumping_Up.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/Animations/Jump/Falling_To_Landing.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/Animations/Crouching_Idle_Anim_mixamo_com.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/RPG_Character.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/RPG_Character_Skeleton.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/RPG_Character_PhysicalAsset.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/Animations/Crouched_Walking.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/Animations/Idle.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/Animations/Walking.uasset",
+				"C:/Users/Sirius/Desktop/RPG_Demo/Content/Characters/RPG_Character/Animations/Crouched/Crouching_Idle_Anim_mixamo_com.uasset"
+			]
+		}
+	]
+}
