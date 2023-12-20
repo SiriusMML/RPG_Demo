@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Document/Learning/[20231218] RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/BP_RPG_Character.uasset",
+				"D:/Document/Learning/[20231218] RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/Animations/Lean/LeanLeft.uasset",
+				"D:/Document/Learning/[20231218] RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/Animations/Lean/LeanRight.uasset",
+				"D:/Document/Learning/[20231218] RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/SkeletonMesh/RPG_Character_Skeleton.uasset",
+				"D:/Document/Learning/[20231218] RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/Animations/Lean/BS_Lean.uasset",
+				"D:/Document/Learning/[20231218] RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/ABP_RPG_Character.uasset",
 				"F:/Work/Exercise/RPG_Demo/Content/Characters/RPG_Character/Animations/Crouched/BS_Crouch.uasset",
 				"F:/Work/Exercise/RPG_Demo/Content/Characters/RPG_Character/ABP_RPG_Character.uasset",
 				"F:/Work/Exercise/RPG_Demo/Content/Characters/RPG_Character/Animations/Locomotion/Run_To_Stop.uasset",
