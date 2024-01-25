@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Document/GitHub/RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/BP_RPG_Character.uasset",
+				"D:/Document/GitHub/RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/Animations/Vaulting/AM_Jumping.uasset",
 				"D:/Document/Learning/[20231218] RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/BP_RPG_Character.uasset",
 				"D:/Document/Learning/[20231218] RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/Animations/Lean/LeanLeft.uasset",
 				"D:/Document/Learning/[20231218] RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/Animations/Lean/LeanRight.uasset",
