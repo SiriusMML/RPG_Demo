@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Document/GitHub/RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/BP_RPG_Character.uasset",
-				"D:/Document/GitHub/RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/Animations/Vaulting/AM_Jumping.uasset",
 				"D:/Document/Learning/[20231218] RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/BP_RPG_Character.uasset",
 				"D:/Document/Learning/[20231218] RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/Animations/Lean/LeanLeft.uasset",
 				"D:/Document/Learning/[20231218] RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/Animations/Lean/LeanRight.uasset",
@@ -15,6 +13,9 @@
 				"D:/Document/Learning/[20231218] RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/ABP_RPG_Character.uasset",
 				"D:/Document/Learning/[20231218] RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/Animations/Vaulting/Jumping.uasset",
 				"D:/Document/Learning/[20231218] RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/Animations/Vaulting/AM_Jumping.uasset",
+				"D:/Document/Learning/[20231218] RPG_Demo/RPG_Demo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Y6/WD49W9AUIWO92PQQSPKAWU.uasset",
+				"D:/Document/GitHub/RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/BP_RPG_Character.uasset",
+				"D:/Document/GitHub/RPG_Demo/RPG_Demo/Content/Characters/RPG_Character/Animations/Vaulting/AM_Jumping.uasset",
 				"F:/Work/Exercise/RPG_Demo/Content/Characters/RPG_Character/Animations/Crouched/BS_Crouch.uasset",
 				"F:/Work/Exercise/RPG_Demo/Content/Characters/RPG_Character/ABP_RPG_Character.uasset",
 				"F:/Work/Exercise/RPG_Demo/Content/Characters/RPG_Character/Animations/Locomotion/Run_To_Stop.uasset",
